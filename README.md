@@ -6,3 +6,6 @@
 ![image](https://github.com/BiaoLiu2017/GBT7114-EndnoteStyle/blob/master/images/2005.png "original endnote style")
 ## GB/T7114-2015 (Author-Year)（即本仓库中的style）
 ![image](https://github.com/BiaoLiu2017/GBT7114-EndnoteStyle/blob/master/images/2015.png "Revised style")
+
+## My blog
+https://biaoliu2017.github.io/
